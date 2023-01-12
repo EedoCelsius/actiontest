@@ -41,5 +41,5 @@ server.listen(3000, () => {
   setTimeout(() => {
     server.close();
     console.log('Server closed');
-  }, 300000);
+  }, 60000);
 });
