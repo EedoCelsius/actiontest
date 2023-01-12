@@ -1,4 +1,4 @@
-name: test workflow
+name: test workflow2
 on:
   create
 jobs:
